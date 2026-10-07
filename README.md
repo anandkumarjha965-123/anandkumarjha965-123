@@ -9,7 +9,7 @@ I build useful things with **Python, FastAPI, C++, JavaScript, and React**.
 [![Profile Views](https://komarev.com/ghpvc/?username=anandkumarjha965-123&style=for-the-badge&color=7c3aed)](https://github.com/anandkumarjha965-123)
 [![GitHub followers](https://img.shields.io/github/followers/anandkumarjha965-123?style=for-the-badge&logo=github&color=181717)](https://github.com/anandkumarjha965-123?tab=followers)
 
-[LinkedIn](https://www.linkedin.com/in/anand-kumar-jha-8a0172330/) · [Email](anandkumarjha965@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anand-kumar-jha-8a0172330/)
 
 </div>
 
