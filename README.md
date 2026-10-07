@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm YOUR_NAME 👋
+# Hey, I'm Anand Kumar Jha 👋
 
 ### Developer · Problem Solver · Lifelong Learner
 
@@ -17,10 +17,10 @@ I build useful things with **Python, FastAPI, C++, JavaScript, and React**.
 
 ## ✨ About Me
 
-- 🔭 Currently working on **YOUR_CURRENT_PROJECT**
-- 🌱 Learning **YOUR_CURRENT_INTEREST**
+- 🔭 Currently working on **ML projects**
+- 🌱 Learning **Backend and Machine Learning**
 - 💬 Ask me about **Python, FastAPI, C++, JavaScript, and React**
-- ⚡ Fun fact: **ADD_A_FUN_FACT**
+- ⚡ Fun fact: **I enjoy solving Real World Projects**
 
 ## 🧰 Tech Stack
 
