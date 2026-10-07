@@ -6,10 +6,10 @@
 
 I build useful things with **Python, FastAPI, C++, JavaScript, and React**.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed)](https://github.com/YOUR_USERNAME)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=181717)](https://github.com/YOUR_USERNAME?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=anandkumarjha965-123&style=for-the-badge&color=7c3aed)](https://github.com/anandkumarjha965-123)
+[![GitHub followers](https://img.shields.io/github/followers/anandkumarjha965-123?style=for-the-badge&logo=github&color=181717)](https://github.com/anandkumarjha965-123?tab=followers)
 
-[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL)
+[LinkedIn](https://www.linkedin.com/in/anand-kumar-jha-8a0172330/) · [Email](anandkumarjha965@gmail.com)
 
 </div>
 
@@ -38,12 +38,12 @@ I build useful things with **Python, FastAPI, C++, JavaScript, and React**.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anandkumarjha965-123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandkumarjha965-123&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=anandkumarjha965-123&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
@@ -51,7 +51,7 @@ I build useful things with **Python, FastAPI, C++, JavaScript, and React**.
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Contribution snake](https://raw.githubusercontent.com/anandkumarjha965-123/anandkumarjha965-123/output/github-contribution-grid-snake.svg)
 
 </div>
 
